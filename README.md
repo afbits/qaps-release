@@ -90,3 +90,7 @@ konHKT:~ feng$
 (3) The project is copied to the lab directory which is in the "$/projects/lab<N>":
 
 ![Copied project in lab](doc/images/the_imported_project_in_lab1.png "Copied project in lab")
+
+Third-Party Libraries
+=====================
+* Apache Commons IO 2.4 (Apache License, Version 2.0)
