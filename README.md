@@ -1,6 +1,8 @@
 # quick-android-projects-switcher
 Quick Android Projects Switcher(QAPS) is a GUI or Command Line tool which helps you to experience Android sample projects without involving too many projects and uninstalling the installed apps from your device or emulator.
 
+This repository is not the source code, it's only the releasing package.
+
 It's tested on Android Studio 1.4 and with OS's:
 
 * Mac OS X 10.10.4
