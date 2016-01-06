@@ -55,12 +55,12 @@ After the installation, you can run QAPS in the Command Line way or GUI way.
 Open a console, and run like this (assume that you add the "$/bin" to the $PATH):
 
 ```
-konHKT:~ feng$ qaps.sh copy ~/tools/adt-bundle-mac/sdk/samples/android-19/legacy/AppNavigation
+afHKT:~ alan$ qaps.sh copy ~/tools/adt-bundle-mac/sdk/samples/android-23/ui/ActionBarCompat-Basic
 Copy Android project from path:
-    /Users/feng/tools/adt-bundle-mac/sdk/samples/android-19/legacy/AppNavigation
+    /Users/alan/tools/adt-bundle-mac/sdk/samples/android-23/ui/ActionBarCompat-Basic
 To:
     Lab #1
-    Path: /Users/feng/tools/qaps/projects/lab1
+    Path: /Users/alan/tools/qaps/projects/lab1
 
 Copying...
 Done.
@@ -69,7 +69,7 @@ Now you can choose one of them:
   1. Choose 'Rebuild Project' in Android Studio if the project already opened; or
   2. Open that lab project from Welcome dialog of Android Studio and 'Rebuilt project'; or
   3. Import that lab project as Gradle project from Welcome dialog of Android Studio.
-konHKT:~ feng$
+afHKT:~ alan$
 ```
 
 2. GUI way
